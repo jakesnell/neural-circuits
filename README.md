@@ -1,6 +1,6 @@
 # Neural Circuits
 
-Code to accompany the paper "A Metalearned Neural Circuit for Nonparametric Bayesian Inference" (NeurIPS 2024).
+Code to accompany the paper ["A Metalearned Neural Circuit for Nonparametric Bayesian Inference" (NeurIPS 2024)](https://papers.nips.cc/paper_files/paper/2024/hash/693189d9b2d1949a28a9b2abf9fe7aec-Abstract-Conference.html).
 
 Our code consists of two packages:
 
